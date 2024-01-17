@@ -1,0 +1,8 @@
+CLASS net/minecraft/unmapped/C_gqmsalid net/minecraft/util/ItemActionResult
+	METHOD m_iqgbotqu isAccepted ()Z
+	METHOD m_knztfxiz toActionResult ()Lnet/minecraft/unmapped/C_ozuepbyj;
+		COMMENT Maps an {@link net.minecraft.util.ItemActionResult} into an {@link net.minecraft.util.ActionResult}.
+		COMMENT
+		COMMENT @see net.minecraft.util.ActionResult
+	METHOD m_roitqude success (Z)Lnet/minecraft/unmapped/C_gqmsalid;
+		ARG 0 swingHand
